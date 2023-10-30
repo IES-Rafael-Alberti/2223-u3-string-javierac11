@@ -7,7 +7,7 @@ def leeCadena():
     cadena = input("Introduce una cadena: ")
     return cadena
 
-def invierteCadena(cadena):
+def invierteCadena(cadena: str):
     """Invierte una cadena de texto
     
     Se le introduce una cadena de texto
